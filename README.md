@@ -14,3 +14,5 @@ Realice tres estadísticas como lo fueron el año de lanzamiento máximo y míni
 Este proyecto analiza un dataset con información sobre las películas de **Pixar Animation Studios**, incluyendo su año de estreno, duración, presupuesto, recaudaciones y puntuaciones en distintas plataformas (Rotten Tomatoes, IMDB y Metacritic).
 El objetivo del análisis es comprender el comportamiento de las películas en términos de **éxito comercial** y **recepción crítica**, explorando relaciones entre presupuesto, crítica y ganancias.
 
+## Dashboard Personal - Pixar Movies
+Este proyecto es un mini dashboard creado con Python usando un dataset de películas de Pixar. Incluye al menos cinco gráficos de líneas que comparan variables como presupuesto, recaudación mundial y puntuaciones de crítica, cada uno contando una pequeña historia sobre la evolución de los filmes. Se usaron distintos estilos y colores, los gráficos fueron guardados como PNG y se documentaron los hallazgos más importantes dentro del notebook. 

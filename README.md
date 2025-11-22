@@ -19,3 +19,6 @@ Este proyecto es un mini dashboard creado con Python usando un dataset de pelíc
 
 ## Dashboard Completo - Netfliz Titles
 Este proyecto analiza el conjunto de datos Netflix Titles mediante visualizaciones creadas con Python y Matplotlib. Incluye gráficos de barras, pastel, histogramas, líneas y dispersión para explorar tendencias como la distribución entre películas y series, años de lanzamiento, duración de películas y países con mayor producción de contenido. El objetivo es presentar un análisis simple, ordenado y visualmente claro que facilite la comprensión general del catálogo de Netflix.
+
+## Análisis visual completo - Spotify Songs
+Este proyecto realiza un análisis visual básico de un dataset de canciones populares de Spotify usando Pandas, Matplotlib y Seaborn. Incluye seis gráficos principales (histograma de streams, barplot de artistas, boxplot de BPM, scatter de energy vs streams, violinplot de danceability y un heatmap de correlación) para entender patrones generales en energía, popularidad y características musicales. El repositorio contiene el dataset, el notebook con el análisis y las imágenes exportadas en alta calidad.
